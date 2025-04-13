@@ -1,4 +1,3 @@
-
 document.querySelectorAll('.quality-btn').forEach(button => {
     button.addEventListener('click', function() {
         // Remove active class from all buttons in this quality selector
